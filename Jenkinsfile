@@ -29,7 +29,7 @@ pipeline {
 		stage('Testing'){
 				steps{
 					script {
-						sh '/usr/local/bin/kubectl get all --all-namespaces'
+						sh '/usr/local/bin/sleep 10 kubectl get all --all-namespaces'
 					}
 				}				
 		}
