@@ -13,7 +13,7 @@ pipeline {
 		stage('Cloning Repo'){
 			steps {
 				script{
-					sh 'git clone https://github.com/DanyYanez/final-project' 
+					sh 'git pull https://github.com/DanyYanez/final-project' 
 				}		
 			}
 		}
