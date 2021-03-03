@@ -16,7 +16,7 @@ In this project the steps that I followed are:
 Project Desing
 
 
-<img src="./Pictures/Final.pdf">
+<img src="./Final.pdf">
 
 List of components in the architecture:
 
