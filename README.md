@@ -5,7 +5,7 @@ This case study extends the CI/CD Pipeline Project with provisioning and monitor
 In this project the steps that I followed are:
  
 * Create a Jenkins(CI/CD) pipeline to deploy a Flask application onto a Kubernetes cluster created with Ansible.
-* Install and configure monitoring of your Kubernetes clusters and Flask application.
+* Install and configure monitoring on the Kubernetes clusters and Flask application.
 * Use Prometheus/Grafana to monitor the cluster  
 * Create a load with a tool like stress to simulate application activity. 
 
@@ -30,7 +30,7 @@ List of components in the architecture:
 
 Deployment
 
-* Minikube start the cluster locally
+* Minikube will start the cluster locally
 
 <img src="./Pictures/minikube.pdf">
 
@@ -50,7 +50,7 @@ Monitoring
 
 * Donwload Prometheus/Grafana using Helm
 
-* By installing with Helm automaticaly will setup Prometheus/Grafana for us
+* Installing Prometheus/Grafana with Helm will automaticaly set it up
 
 <img src="./Pictures/cluster.pdf">
 
