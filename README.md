@@ -1,5 +1,4 @@
-
-#Final Project
+# Final Project
 
 This case study extends the CI/CD Pipeline Project with provisioning and monitoring components. 
 
@@ -10,9 +9,9 @@ In this project the steps that I followed are:
 * Use Prometheus/Grafana to monitor the cluster  
 * Create a load with a tool like stress to simulate application activity. 
 
-##Project Milestones
+## Project Milestones
 
-###Stage One: 
+### Stage One: 
 
 Project Desing
 
@@ -26,7 +25,7 @@ List of components in the architecture:
 * Kubernetes (minikube)
 * Prometheus/Grafana
 
-###Stage Two:
+### Stage Two:
 
 Deployment
 
@@ -44,7 +43,7 @@ Deployment
 
 <img src"./Pictures/app.pdf">
 
-###Stage Three:
+### Stage Three:
 
 Monitoring
 
