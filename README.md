@@ -75,3 +75,7 @@ Monitoring
 <img src="./Pictures/stress.pdf">
 
 <img src="./Pictures/stress2.pdf">
+
+<img src="./Pictures/stress4.png">
+
+<img src="./Pictures/stress3.png">
