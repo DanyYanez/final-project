@@ -48,9 +48,9 @@ Deployment
 
 Monitoring
 
-* Donwload Prometheus/Grafana using Helm
+* Download Prometheus/Grafana using Helm
 
-* Installing Prometheus/Grafana with Helm will automaticaly set it up
+* Installing Prometheus/Grafana with Helm will automatically set it up
 
 <img src="./Pictures/cluster.png">
 
