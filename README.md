@@ -79,3 +79,7 @@ Monitoring
 <img src="./Pictures/stress4.png">
 
 <img src="./Pictures/stress3.png">
+
+* Write a shell script to create alerts when the cpu usage is more than 60%
+
+<img src="./Pictures/script.png">
